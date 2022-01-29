@@ -6,4 +6,6 @@ Check it out here !
 https://sauradip007.github.io/Library-/
 
 # Preview of what it looks right now
-https://cdn.discordapp.com/attachments/934810569167491112/936838320720314379/unknown.png
+
+![image](https://user-images.githubusercontent.com/71842251/151647056-6522ede0-d42c-4ec5-ac29-d51909358477.png)
+
