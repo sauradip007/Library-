@@ -5,5 +5,5 @@ A library which gets updated when new genre of books are added. Currently implem
 Check it out here !
 https://sauradip007.github.io/Library-/
 
-#Preview of what it looks right now
+# Preview of what it looks right now
 https://cdn.discordapp.com/attachments/934810569167491112/936838320720314379/unknown.png
